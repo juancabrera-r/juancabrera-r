@@ -41,7 +41,6 @@ end
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
