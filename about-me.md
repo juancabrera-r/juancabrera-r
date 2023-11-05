@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+# Contact Info
 
-_yay_
+
 
 [back](./)
