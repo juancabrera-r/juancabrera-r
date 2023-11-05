@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Welcome to another page
+## CONTACT INFO
 
-<h3> Gmail </h3>
-<p> juanmanuelcabrera.r@gmail.com </p>
+<h3> Email </h3>
+<a href="mailto:juanmanuelcabrera.r@gmail.com" subject="email"> juanmanuelcabrera.r@gmail.com </p>
 
 <h3> Linkedin </h3>
 <a href="{{'https://www.linkedin.com/in/jmcabrerarodriguez'}}"> https://www.linkedin.com/in/jmcabrerarodriguez </a>
