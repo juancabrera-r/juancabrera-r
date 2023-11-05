@@ -12,8 +12,12 @@ exciting field. Currently, I have decided to adjust the sails of my career, and 
 <h3>Education</h3>
 
 * Maste's Degree in Applied Statistics for Data Science (1650h)
+  - 2023 - Present
 * Automation and Electronics Engineering
+  - 2009 - 2014
 * Master's Degree in Renewable Energies (1800 h)
+  - 2010 - 2012
 * Industrial Technical Engineering in Industrial Electronic
+  - 2004 - 2009
 
 [back](./)
